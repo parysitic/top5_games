@@ -1,0 +1,31 @@
+/* CSS Styles for index.html Text class and universal selectors*/
+
+.titlecolor {
+    background-color: blueviolet;
+    color: aquamarine;
+    margin: 0;
+}
+
+.fontsize {
+    font-size: 45px;
+}
+
+* p {
+    color: blueviolet;
+    font-family: "Trebuchet MS";
+    font-size: 14px;
+    margin: 0;
+}
+
+
+/* CSS Style for images */
+
+* img {
+    height: 80px;
+    width: auto;
+    margin-top: 1cm;
+}
+
+* {
+    outline: 2px solid red;
+}
